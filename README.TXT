@@ -1,29 +1,20 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
 PROJECT TITLE: Parking Spot System
 
-AUTHORS: Yugma Manojbhai Mangukiya
+AUTHORS: Yugma
 
-PURPOSE OF PROJECT: This project is a console-based Parking Spot Management System developed for COS70006 Advanced Software Development Project 1.
+PURPOSE OF PROJECT: This project is a console-based Parking Spot Management System developed.
 
 The system allows a company to manage staff and visitor parking slots. Users can create parking slots, delete slots, park cars, find parked cars, remove cars, and display all parking slot information.
  
 The system also implements advanced features including recording the parking time of a car, calculating parking duration, and calculating parking fees at a rate of $10 per hour (or part thereof).
 
-VERSION or DATE:
-Version 1.0
-11 September 2026
 
 HOW TO START THIS PROJECT:
-1. Open the project in BlueJ.
+1. Open the project.
 2. Compile all classes.
-3. Run the Application class.
-4. Create the initial car park by entering the number of staff slots and visitor slots.
-5. Select menu options to manage parking slots and cars. 
+3. Create the initial car park by entering the number of staff slots and visitor slots.
+4. Select menu options to manage parking slots and cars. 
 
 
 USER INSTRUCTIONS:
