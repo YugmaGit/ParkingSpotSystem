@@ -8,11 +8,6 @@ import java.time.format.DateTimeFormatter;
  * make, model, whether the owner is a staff member, and the time it was
  * parked. It can also calculate how long it has been parked and the
  * resulting parking fee.
- *
- * @author Yugma ManojBhai Mangukiya
- * @id 106227407
- * @version 1.0
- * @date 11/09/2026
  */
 public class Car
 {
