@@ -4,11 +4,6 @@ import java.util.ArrayList;
  * Manages the collection of parking slots at a car park site.
  * Responsible for adding, finding and deleting slots, and for
  * finding and removing cars by registration number.
- *
- * @author Yugma ManojBhai Mangukiya
- * @id 106227407
- * @version 1.0
- * @date 11/09/2026
  */
 public class CarPark
 {
